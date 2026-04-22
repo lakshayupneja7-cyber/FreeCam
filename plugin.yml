@@ -1,0 +1,7 @@
+name: FreecamDetector
+version: 1.0
+main: me.yourname.freecamdetector.FreecamDetector
+api-version: 1.21
+depend: [ProtocolLib]
+author: YourName
+description: Detects Fabric Freecam mod during login.
